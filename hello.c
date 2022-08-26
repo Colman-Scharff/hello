@@ -1,8 +1,9 @@
 /*
 *   Author: Colman Scharff
+*            cscharff3@huskers.unl.edu
 *   Date: 2022/08/25
 *
-*   Prints author's name
+*   Prints authors' names and majors
 */
 
 #include <stdlib.h>
