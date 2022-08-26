@@ -1,6 +1,7 @@
 /*
 *   Author: Colman Scharff
-*            cscharff3@huskers.unl.edu
+*           cscharff3@huskers.unl.edu
+*
 *   Date: 2022/08/25
 *
 *   Prints authors' names and majors
